@@ -1,11 +1,11 @@
-# Tặng Xu
+# Tặng Nhu
 ## _Một điều nho nhỏ tỏ tình với crush_
 
 
 Mở file config.js sửa nội dung theo mẫu
 ```
 const CONFIG = {
-    introTitle: 'Xù à!',
+    introTitle: 'Nhu à!',
     introDesc: `Trái đất vốn lạ thường
     Mà sao em cứ đi nhầm đường
     Lạc vào tim anh lẻ loi
